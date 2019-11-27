@@ -2,7 +2,7 @@
 
 这是一系列整理好的捐赠按钮样式。
 
-[查看效果](https://94275.cn/donate-page/simple/?item=easy-select-style)
+[Demo](https://94275.cn/donate-page/simple/?item=easy-select-style)
 
 ![默认样式](./preview/preview_menu.png)
 
