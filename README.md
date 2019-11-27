@@ -2,12 +2,13 @@
 
 这是一系列整理好的捐赠按钮样式。
 
-[Simple](https://github.com/Kaiyuan/donate-page/tree/gh-pages/simple)
+[查看效果](https://94275.cn/donate-page/simple/?item=easy-select-style)
 
-```
-<video class="share-video" id="share-video" poster="https://thumbs.gfycat.com/TatteredAlarmingCopperhead-poster.jpg" autoplay="" muted="" loop=""><source id="webmSource" src="https://zippy.gfycat.com/TatteredAlarmingCopperhead.webm" type="video/webm"><source id="mp4Source" src="https://zippy.gfycat.com/TatteredAlarmingCopperhead.mp4" type="video/mp4"><img title="Sorry, your browser doesn't support HTML5 video." src="https://i.imgur.com/yNz5vJc.gif"></video>
----
-```
+![默认样式](./preview/preview_menu.png)
+
+![微信样式](./preview/preview_wx.png)
+
+![支付宝样式](./preview/preview_alipay.png)
 
 ### License
 
